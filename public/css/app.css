@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  .movies-section {
+    background-color: #000;
+  }
+  
+  .movies-section .movie-card {
+    background-color: #ccc;
+    border: 1px solid red;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  footer {
+    color: #fff;
+  }
